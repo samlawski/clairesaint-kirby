@@ -1,0 +1,20 @@
+/* Reset CSS */
+@import 'css/reset.css';
+
+/* Plugins */
+@import 'css/plugins/hamburger.min.css';
+@import 'css/plugins/customicons.css';
+
+/* Custom CSS */
+@import 'css/constants.scss';
+@import 'css/global.scss';
+@import 'css/layout.scss';
+
+@import 'css/pages/404.scss';
+@import 'css/pages/home.scss';
+@import 'css/pages/music.scss';
+@import 'css/pages/gallery.scss';
+@import 'css/pages/vita.scss';
+@import 'css/pages/contact.scss';
+@import 'css/pages/thankyou.scss';
+@import 'css/pages/impressum.scss';

@@ -1,0 +1,24 @@
+title: Music
+
+columns:
+  - width: 2/3
+    fields:
+      text:
+        label: Text
+        type: writer
+        size: large
+      spotify_path:
+        label: Spotify ID (z.B. spotify:album:0Rq3w7mkpdB5abdAWLC3Z0)
+        type: text
+      deezer_artist_url:
+        label: Deezer Artist Link (z.B. https://www.deezer.com/en/artist/743)
+        type: text 
+      itunes_artist_url:
+        label: iTunes Artist Link (z.B. https://embed.music.apple.com/us/album/rocket...)
+        type: text
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false

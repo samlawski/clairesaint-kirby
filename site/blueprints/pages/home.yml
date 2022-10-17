@@ -1,0 +1,65 @@
+title: Home
+
+columns:
+  - width: 2/3
+    fields:
+      cover_image:
+        label: Titelbild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      cover_link:
+        label: CTA Button Link 
+        type: text
+        required: true
+      cover_link_text:
+        label: CTA Button Text
+        type: text
+        required: true
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      header_title:
+        label: Header Titel
+        type: text
+        required: true
+      header_subtitle:
+        label: Header Untertitel
+        type: text
+        required: true
+      instagram_url:
+        label: instagram Link
+        type: text
+        required: false
+      facebook_url:
+        label: facebook Link
+        type: text
+        required: false
+      spotify_url:
+        label: spotify Link
+        type: text
+        required: false
+      apple_url:
+        label: apple Link
+        type: text
+        required: false
+      deezer_url:
+        label: deezer Link
+        type: text
+        required: false
+      youtube_url:
+        label: youtube Link
+        type: text
+        required: false
+      google_url:
+        label: google Link
+        type: text
+        required: false
+      soundcloud_url:
+        label: soundcloud Link
+        type: text
+        required: false

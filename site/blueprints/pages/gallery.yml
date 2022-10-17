@@ -1,0 +1,9 @@
+title: Gallery
+
+sections:
+  images:
+    label: Bilder
+    type: files
+    min: 1
+    multiple: true
+    required: true

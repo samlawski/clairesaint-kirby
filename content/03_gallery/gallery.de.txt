@@ -1,0 +1,13 @@
+Title: Galerie
+
+----
+
+Description: Singer/Songwriter aus Berlin
+
+----
+
+Slug: galerie
+
+----
+
+Style-Id: gallery

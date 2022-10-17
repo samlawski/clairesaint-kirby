@@ -1,0 +1,32 @@
+/*
+
+- ...
+
+*/
+
+[data-page="home"] {
+  .media__slide {
+    position: relative;
+    img {
+      max-height: 600px;
+      margin: auto;
+      display: block;
+    }
+  }
+
+  .slide__cta {
+    position: absolute;
+    left: 50%;
+
+    transform: translateX(-50%);
+    bottom: 35%;
+
+    background-color: rgba(0,0,0,0.3);
+
+    &:hover {
+      background-color: rgba(255,255,255,0.3);
+      color: black;
+      border-color: black;
+    }
+  }
+}

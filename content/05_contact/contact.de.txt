@@ -1,0 +1,69 @@
+Title: Kontakt
+
+----
+
+Description: Singer/Songwriter aus Berlin
+
+----
+
+Slug: kontakt
+
+----
+
+Style-Id: contact
+
+----
+
+Form-Name-Label: Name
+
+----
+
+Form-Name-Placeholder: Max Mustermann
+
+----
+
+Form-Email-Label: email
+
+----
+
+Form-Email-Placeholder: maximilia@email.de
+
+----
+
+Form-Date-Checkbox: Ich möchte ein Event buchen.
+
+----
+
+Form-Date-Label: Datum (optional)
+
+----
+
+Form-Message-Label: Nachricht
+
+----
+
+Form-Message-Placeholder: Nachricht ...
+
+----
+
+Gdpr-Checkbox: Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Webseite und der Weiterleitung an meinen Servicedienstleister einverstanden.
+
+----
+
+Send-Button: Absenden
+
+----
+
+Success-Title: Vielen Dank für die Nachricht.
+
+----
+
+Success-Body: Ich werde mich so bald wie möglich melden.
+
+----
+
+Fail-Title: Die Nachricht konnte nicht verschickt werden.
+
+----
+
+Fail-Body: Versuch es bitte später noch einmal und stell sicher das Formular ist ausgefüllt. Ansonsten erreichst du mich auch über social media.

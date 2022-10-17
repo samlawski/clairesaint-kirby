@@ -1,0 +1,69 @@
+Title: Contact
+
+----
+
+Description: Singer/Songwriter from Berlin
+
+----
+
+Slug: contact
+
+----
+
+Style-Id: contact
+
+----
+
+Form-Name-Label: name
+
+----
+
+Form-Name-Placeholder: Jane Doe
+
+----
+
+Form-Email-Label: email
+
+----
+
+Form-Email-Placeholder: john@doe.com
+
+----
+
+Form-Date-Checkbox: I'd like to request a booking
+
+----
+
+Form-Date-Label: date (optional)
+
+----
+
+Form-Message-Label: message
+
+----
+
+Form-Message-Placeholder: message ...
+
+----
+
+Gdpr-Checkbox: By using this form, you consent to the storage and processing of your data according to the privacy policy.
+
+----
+
+Send-Button: Send
+
+----
+
+Success-Title: Thank you for your message.
+
+----
+
+Success-Body: I will get back to you as soon as possible!
+
+----
+
+Fail-Title: Error sending the message
+
+----
+
+Fail-Body: Please try again and make sure to fill out the entire form. If that doesn't work, you can reach me on social media (see below).

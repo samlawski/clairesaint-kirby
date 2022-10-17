@@ -1,0 +1,45 @@
+[data-page="contact"] {
+
+  form,
+  .form_sent--success,
+  .form_sent--fail {
+    display: block;
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .form_sent--success,
+  .form_sent--fail {
+    margin: 20px auto;
+    padding: 40px 0;
+    background-color: rgba(0,0,0,0.1);
+    text-align: center;
+  }
+
+  
+
+  input[type="text"],
+  input[type="email"],
+  input[type="date"],
+  textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 25px;
+  }
+
+  .formgroup {
+    margin-top: 25px;
+  }
+
+  .booking__date {
+    height: 0;
+    overflow: hidden;
+    transition: all .3s;
+
+    &.open {
+      height: 72px; // set height for transition
+    }
+  }
+
+}

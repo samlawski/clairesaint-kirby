@@ -1,0 +1,50 @@
+title: About
+
+columns:
+  - width: 2/3
+    fields:
+      page_title:
+        label: Seitentitel
+        type: text
+      text:
+        label: Text
+        type: writer
+        size: large
+      contact_link:
+        label: Kontakt-Button Text
+        type: text
+        required: true
+      references_title:
+        label: Referenzen-Titel
+        type: text
+      references:
+        label: Referenzen
+        type: structure
+        min: 1
+        fields:
+          datum:
+            label: Datum
+            type: text
+            required: true
+          titel:
+            label: Titel
+            type: text
+            required: false
+          audio_path:
+            label: Audio-Datei (optional)
+            type: files
+            max: 1
+            multiple: false
+            required: false
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      profile_image:
+        label: Bild
+        type: files
+        max: 1
+        multiple: false
+        required: true

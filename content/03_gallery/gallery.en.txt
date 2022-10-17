@@ -1,0 +1,13 @@
+Title: Gallery
+
+----
+
+Description: Singer/Songwriter from Berlin
+
+----
+
+Slug: gallery
+
+----
+
+Style-Id: gallery

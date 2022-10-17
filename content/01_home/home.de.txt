@@ -1,0 +1,63 @@
+Title: Home
+
+----
+
+Description: Singer/Songwriter aus Berlin
+
+----
+
+Header-Title: Claire Saint
+
+----
+
+Header-Subtitle: singer - songwriter
+
+----
+
+Instagram-Url: https://www.instagram.com/thisisclairesaint/"
+
+----
+
+Facebook-Url: https://www.facebook.com/thisisclairesaint/"
+
+----
+
+Spotify-Url: https://open.spotify.com/artist/3n43OqOvCQCx2G9UHmGiUI
+
+----
+
+Apple-Url: https://music.apple.com/de/artist/claire-saint/1470876262
+
+----
+
+Deezer-Url: https://www.deezer.com/us/artist/68435242?app_id=140685
+
+----
+
+Youtube-Url: https://www.youtube.com/channel/UC8tPTQdOAZCJ84QxJkDNJHQ
+
+----
+
+Google-Url:
+
+----
+
+Soundcloud-Url: 
+
+----
+
+Cover-Image:
+
+- cover.jpg
+
+----
+
+Cover-Link: https://youtu.be/ipc5VCE_riI
+
+----
+
+Cover-Link-Text: Jetzt anschauen
+
+----
+
+Style-Id: home

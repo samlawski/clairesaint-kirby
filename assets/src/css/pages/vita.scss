@@ -1,0 +1,46 @@
+[data-page="vita"] {
+
+  .vita {
+    @media(min-width: 620px){
+      display: flex;
+    }
+  }
+
+  .vita__block {
+    flex: 1 1;
+  }
+
+  .vita__portrait {
+    margin-bottom: 20px;
+
+    @media(min-width: 620px){
+      flex: 0 0;
+      flex-basis: 300px;
+      margin-right: 20px;
+
+      img {
+        position: sticky;
+        top: 15%;
+      }
+    }
+  }
+
+  .vita__text {
+    text-align: justify;
+  }
+
+  .vita__cta {
+    margin: 20px 0;
+    padding: 40px 0;
+    background-color: rgba(0,0,0,0.1);
+    text-align: center;
+  }
+
+  p {margin-bottom: 20px;}
+
+  .referenz__audio {
+    cursor: pointer;
+
+    &:hover { color: $clr-primary--lt1; }
+  }
+}
