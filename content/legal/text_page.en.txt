@@ -23,7 +23,7 @@ Body:
 <p>Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 <p>&nbsp;</p>
 <p><em>Das Impressum wurde mit dem <a href="https://www.activemind.de/datenschutz/impressums-generator/">Impressums-Generator der activeMind AG</a> erstellt.</em></p>
-
+<p><small>(Website Version: Oct 17th, 2022)</small></p>
 
 ----
 
