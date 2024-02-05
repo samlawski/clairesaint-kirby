@@ -2,68 +2,72 @@ Title: Contact
 
 ----
 
-Description: Singer/Songwriter from Berlin
-
-----
-
 Slug: contact
 
 ----
 
-Style-Id: contact
+Description: Singer/Songwriter from Berlin
 
 ----
 
-Form-Name-Label: name
+Style-id: contact
 
 ----
 
-Form-Name-Placeholder: Jane Doe
+Form-name-label: name
 
 ----
 
-Form-Email-Label: email
+Form-name-placeholder: Jane Doe
 
 ----
 
-Form-Email-Placeholder: john@doe.com
+Form-email-label: email
 
 ----
 
-Form-Date-Checkbox: I'd like to request a booking
+Form-email-placeholder: john@doe.com
 
 ----
 
-Form-Date-Label: date (optional)
+Form-date-checkbox: I'd like to request a booking
 
 ----
 
-Form-Message-Label: message
+Form-date-label: date (optional)
 
 ----
 
-Form-Message-Placeholder: message ...
+Form-message-label: message
 
 ----
 
-Gdpr-Checkbox: By using this form, you consent to the storage and processing of your data according to the privacy policy.
+Form-message-placeholder: message ...
 
 ----
 
-Send-Button: Send
+Gdpr-checkbox: By using this form, you consent to the storage and processing of your data according to the privacy policy.
 
 ----
 
-Success-Title: Thank you for your message.
+Send-button: Send
 
 ----
 
-Success-Body: I will get back to you as soon as possible!
+Success-title: Thank you for your message.
 
 ----
 
-Fail-Title: Error sending the message
+Success-body: I will get back to you as soon as possible!
 
 ----
 
-Fail-Body: Please try again and make sure to fill out the entire form. If that doesn't work, you can reach me on social media (see below).
+Fail-title: Error sending the message
+
+----
+
+Fail-body: Please try again and make sure to fill out the entire form. If that doesn't work, you can reach me on social media (see below).
+
+----
+
+Uuid: cCwfVwnzaOTvorS5

@@ -2,12 +2,16 @@ Title: Gallery
 
 ----
 
-Description: Singer/Songwriter from Berlin
-
-----
-
 Slug: gallery
 
 ----
 
-Style-Id: gallery
+Description: Singer/Songwriter from Berlin
+
+----
+
+Style-id: gallery
+
+----
+
+Uuid: 9cbV5cEdDq1xfJG2

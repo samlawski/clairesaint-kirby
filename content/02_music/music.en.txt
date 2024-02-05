@@ -2,31 +2,35 @@ Title: Music
 
 ----
 
-Description: Singer/Songwriter from Berlin
-
-----
-
 Slug: music
 
 ----
 
-Text: 
+Description: Singer/Songwriter from Berlin
+
+----
+
+Text:
 
 <p>&bdquo;Musik ist mein Elixier&ldquo; is not only the main statement of the first single "Elixier" from Claire Saints debut album, it is a life motto that has accompanied the singer all her life. In recent years, she has worked intensively with producers and songwriters to develop her own sound and style. The result she has brought to paper is music in your ears.</p>
 <p>(F. Streso)</p>
 
 ----
 
-Spotify-Path: spotify:artist:3n43OqOvCQCx2G9UHmGiUI
+Spotify-path: spotify:artist:3n43OqOvCQCx2G9UHmGiUI
 
 ----
 
-Deezer-Artist-Url: https://www.deezer.com/us/artist/68435242?app_id=140685
+Deezer-artist-url: https://www.deezer.com/us/artist/68435242?app_id=140685
 
 ----
 
-Itunes-Artist-Url: https://music.apple.com/de/artist/claire-saint/1470876262
+Itunes-artist-url: https://music.apple.com/de/artist/claire-saint/1470876262
 
 ----
 
-Style-Id: music
+Style-id: music
+
+----
+
+Uuid: Aooe90Sl7PP5GlJw

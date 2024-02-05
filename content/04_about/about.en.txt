@@ -2,29 +2,27 @@ Title: About Me
 
 ----
 
-Description: Singer/Songwriter from Berlin
-
-----
-
 Slug: about-me
 
 ----
 
-Style-Id: vita
+Description: Singer/Songwriter from Berlin
 
 ----
 
-Page-Title: Vita
+Style-id: vita
 
 ----
 
-Profile-Image:
-
-- profile.jpg
+Page-title: Vita
 
 ----
 
-Text: 
+Profile-image: - profile.jpg
+
+----
+
+Text:
 
 <p>'Music is my elixir' is not only the main statement of the first single of Claire Saints debut album, it is also her life motto.</p>
 <p>As Marie-Claire Toussaint born and raised in Berlin, she got to know a lot of different types of art, especially music. Next to a comprehensive education while going to school (singing in a choir, conducting, singing, music as an advanced course), she took piano, guitar and singing lessons. She was part of several bands and started within different music projects to write her own songs. In 2009, she released her first EP &bdquo;Cover me&ldquo; with four songs in English that can still be found on her SoundCloud page.</p>
@@ -35,11 +33,11 @@ Text:
 
 ----
 
-Contact-Link: Contact now!
+Contact-link: Contact now!
 
 ----
 
-References-Title: References
+References-title: References
 
 ----
 
@@ -96,3 +94,7 @@ References:
 - datum: 01.2022-12.2022
   titel: Jingle Production for Radio Nordseewelle
   audio_path: - showopener-opener--stinger.wav
+
+----
+
+Uuid: wy4YHK3ukrRbVX9u

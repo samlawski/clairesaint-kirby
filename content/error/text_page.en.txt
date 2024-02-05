@@ -6,10 +6,6 @@ Slug: 404
 
 ----
 
-Description: Error
-
-----
-
 Body:
 
 [
@@ -34,4 +30,12 @@ Body:
 
 ----
 
-Style-Id: 404
+Description: Error
+
+----
+
+Style-id: 404
+
+----
+
+Uuid: 0fucJFnr6k2dyPnb
