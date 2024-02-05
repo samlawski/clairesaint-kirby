@@ -8,22 +8,85 @@ Slug: impressum
 
 Body:
 
-<h1>Impressum</h1>
-<h2>Angaben gemäß § 5 TMG:</h2>
-<p><br>Marie-Claire Toussaint</p>
-<h3>Postanschrift:</h3>
-<p>FiRe-Service &amp; Consulting</p>
-<p>Bismarckstraße 63</p>
-<p>12169 Berlin</p>
-<h3>Kontakt:</h3>
-<p>E-Mail: marie.toussaint@gmx.de</p>
-<p>&nbsp;</p>
-<h2>Information gemäß § 36 VSBG</h2>
-<p>Gemäß § 36 VSBG (Verbraucherstreitbeilegungsgesetz – Gesetz über die alternative Streitbeilegung in Verbrauchersachen) erklärt der Betreiber dieser Website:</p>
-<p>Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
-<p>&nbsp;</p>
-<p><em>Das Impressum wurde mit dem <a href="https://www.activemind.de/datenschutz/impressums-generator/">Impressums-Generator der activeMind AG</a> erstellt.</em></p>
-
+[
+    {
+        "content": {
+            "level": "h1",
+            "text": "Impressum"
+        },
+        "id": "941c9511-a623-4b7c-a094-35b23a4d27f5",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "level": "h2",
+            "text": "Angaben gemäß § 5 TMG:"
+        },
+        "id": "7c5c9620-0c4b-46bf-8e11-95b287161be4",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>Marie-Claire Toussaint</p>"
+        },
+        "id": "eb6cee06-4b17-4b90-8af7-58f43134e5c8",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "level": "h3",
+            "text": "Postanschrift:"
+        },
+        "id": "4d0eab52-7365-4d69-8777-9bd80d56dd01",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>FiRe-Service &amp; Consulting</p><p>Dohnaer Straße 73</p><p>01219 Dresden</p>"
+        },
+        "id": "a955bc1e-aade-471e-af79-add6ac3bb3a7",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "level": "h3",
+            "text": "Kontakt:"
+        },
+        "id": "2cabcb06-8087-4aaf-b9b2-1708c7f1f39e",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>E-Mail: marie.toussaint@gmx.de</p>\n\n<p> </p>"
+        },
+        "id": "e3d906a8-aaca-488a-beca-1fd73f1c93c3",
+        "isHidden": false,
+        "type": "text"
+    },
+    {
+        "content": {
+            "level": "h2",
+            "text": "Information gemäß § 36 VSBG"
+        },
+        "id": "c64fea26-ef7c-403a-a97a-b714ce416bcd",
+        "isHidden": false,
+        "type": "heading"
+    },
+    {
+        "content": {
+            "text": "<p>Gemäß § 36 VSBG (Verbraucherstreitbeilegungsgesetz – Gesetz über die alternative Streitbeilegung in Verbrauchersachen) erklärt der Betreiber dieser Website:</p>\n\n<p>Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>\n\n<p> </p>\n\n<p><em>Das Impressum wurde mit dem <a href=\"https://www.activemind.de/datenschutz/impressums-generator/\">Impressums-Generator der activeMind AG</a> erstellt.</em></p>"
+        },
+        "id": "fc4a3f40-b0a0-48f9-b349-5b85e3b7d5d2",
+        "isHidden": false,
+        "type": "text"
+    }
+]
 
 ----
 
@@ -31,4 +94,4 @@ Description: Singer/Songwriter aus Berlin
 
 ----
 
-Style-Id: impressum
+Style-id: impressum

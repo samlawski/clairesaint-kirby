@@ -1,4 +1,4 @@
-Title: Impressum
+Title: Datenschutz
 
 ----
 
@@ -98,11 +98,10 @@ Body:
 <p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:</p>
 <p></p><p><em>Die Datenschutzerklärung wurde mithilfe der activeMind AG erstellt, den Experten für <a href="https://www.activemind.de/datenschutz/datenschutzhinweis-generator/" target="_blank" rel="noopener">externe Datenschutzbeauftragte</a> (Version #2019-04-10).</em></p>
 
-
 ----
 
 Description: Singer/Songwriter aus Berlin
 
 ----
 
-Style-Id: impressum
+Style-id: impressum
